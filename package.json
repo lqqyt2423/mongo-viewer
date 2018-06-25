@@ -1,0 +1,12 @@
+{
+  "name": "mongo-viewer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server && npm start",
+    "client": "cd client && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
